@@ -8,7 +8,7 @@ export function AlertError() {
       <AlertCircle className="h-4 w-4" />
       <AlertTitle>Erro</AlertTitle>
       <AlertDescription>
-        O CEP informado é inválido.
+        O CEP informado é inválido. 
       </AlertDescription>
     </Alert>
   )
